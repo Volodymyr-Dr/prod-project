@@ -1,5 +1,6 @@
 {
   "translation": "transaltion",
   "translateExample": "translate example",
-  "languege": "english"
+  "languege": "english",
+  "notFoundPage": "Page not found"
 }

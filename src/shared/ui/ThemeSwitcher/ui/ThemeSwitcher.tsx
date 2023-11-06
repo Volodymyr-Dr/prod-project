@@ -4,7 +4,7 @@ import cls from "./ThemeSwitcher.module.scss";
 import { Theme, useTheme } from "app/providers/ThemeProvider";
 import LigtIcon from "shared/assets/icons/theme-light.svg";
 import DarkIcon from "shared/assets/icons/theme-dark.svg";
-import Button, { ThemeButton } from "shared/ui/Button/Button";
+import { ThemeButton, Button } from "shared/ui/Button/Button";
 
 export interface ThemeSwitcherProps {
   className?: string;

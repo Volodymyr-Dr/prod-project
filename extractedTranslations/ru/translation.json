@@ -1,8 +1,10 @@
 {
   "RefreshPage": "RefreshPage",
   "SomethingWentWrong": "SomethingWentWrong",
+  "about": "about",
   "aboutPage": "aboutPage",
   "languege": "languege",
+  "main": "main",
   "mainPage": "mainPage",
   "notFoundPage": "notFoundPage"
 }

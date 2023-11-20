@@ -2,7 +2,10 @@
   "translation": "transaltion",
   "translateExample": "translate example",
   "languege": "english",
+  "languege_short": "en",
   "notFoundPage": "Page not found",
   "SomethingWentWrong": "Something went wrong",
   "RefreshPage": "Refresh page",
+  "main": "Main",
+  "about": "About"
 }

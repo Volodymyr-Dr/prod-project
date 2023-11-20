@@ -2,7 +2,10 @@
   "translation": "переклад",
   "translateExample": "переклад прикладу",
   "languege": "українська",
+  "languege_short": "укр",
   "notFoundPage": "Сторінка не знайдена",
   "SomethingWentWrong": "Щось пішло не так",
-  "RefreshPage": "Оновити сторінку"
+  "RefreshPage": "Оновити сторінку",
+  "main": "Головна",
+  "about": "Про нас"
 }
